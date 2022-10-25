@@ -21,7 +21,7 @@ namespace DesafioProjetoHospedagem.Models
             }
             else
             {
-                throw new Exception("A quantidade de hospedes excede a capacidade da suite.");
+                throw new Exception("A quantidade de hóspedes excede a capacidade da suite.");
             }
         }
 
